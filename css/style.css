@@ -71,8 +71,9 @@ figcaption {
   color: red;
 }
 
+/* Layout */
 .wrapper {
-  width: 960px
+  width: 960px;
   margin: 0 auto;
   background-color: #eee;
 }
