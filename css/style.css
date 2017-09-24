@@ -78,7 +78,7 @@ img, video, audio {
 
 /* Layout */
 .wrapper {
-  width: 1080px;
+  width: 960px;
   margin: 0 auto;
   background-color: #eee;
 }
@@ -114,4 +114,10 @@ img, video, audio {
 
 .first {
   margin-left: 0%;
+}
+
+/* Sections */
+section {
+  padding: 20px;
+  margin-bottom: 20px;
 }
